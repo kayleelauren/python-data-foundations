@@ -1,3 +1,5 @@
+"""Small pandas sanity-check demo."""
+
 import pandas as pd
 
 
