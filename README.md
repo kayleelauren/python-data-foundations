@@ -1,5 +1,7 @@
 # Python Data Foundations
 
+[![CI](https://github.com/kayleelauren/python-data-foundations/actions/workflows/ci.yml/badge.svg)](https://github.com/kayleelauren/python-data-foundations/actions/workflows/ci.yml)
+
 A small Python project demonstrating clean project structure, data processing,
 testing, and modern Python tooling. This repository is intended as a foundation
 for data-focused and AI-adjacent Python workflows.
