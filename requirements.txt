@@ -1,13 +1,22 @@
+cfgv==3.5.0
+distlib==0.4.0
+filelock==3.20.1
+identify==2.6.15
 iniconfig==2.3.0
+nodeenv==1.10.0
 numpy==2.4.0
 packaging==25.0
 pandas==2.3.3
+platformdirs==4.5.1
 pluggy==1.6.0
+pre_commit==4.5.1
 Pygments==2.19.2
 pytest==9.0.2
--e git+https://github.com/kayleelauren/python-data-foundations@1b8e78efb115c97d162fcfb37ed980f0a15b2ff3#egg=python_data_foundations
+-e git+https://github.com/kayleelauren/python-data-foundations@b3625a5b79963e4c4fb6ad212931a2480883bdc6#egg=python_data_foundations
 python-dateutil==2.9.0.post0
 pytz==2025.2
+PyYAML==6.0.3
 ruff==0.14.10
 six==1.17.0
 tzdata==2025.3
+virtualenv==20.35.4
