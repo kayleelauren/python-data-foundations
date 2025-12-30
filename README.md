@@ -111,6 +111,8 @@ Tests validate that:
 - ruff for linting and formatting
 - editable install (`pip install -e .`) for clean imports
 
+**Note**: Linting, formatting and tests are enforced locally via pre-commit hooks.
+
 ---
 
 ## Status
