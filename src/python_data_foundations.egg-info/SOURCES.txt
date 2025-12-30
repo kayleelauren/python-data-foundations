@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/python_data_foundations/__init__.py
+src/python_data_foundations/clean_scores.py
+src/python_data_foundations.egg-info/PKG-INFO
+src/python_data_foundations.egg-info/SOURCES.txt
+src/python_data_foundations.egg-info/dependency_links.txt
+src/python_data_foundations.egg-info/requires.txt
+src/python_data_foundations.egg-info/top_level.txt
+tests/test_clean_scores.py
