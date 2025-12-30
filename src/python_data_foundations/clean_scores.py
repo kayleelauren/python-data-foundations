@@ -12,4 +12,3 @@ def clean_scores(input_path: Path, output_path: Path) -> pd.DataFrame:
 
     df.to_csv(output_path, index=False)
     return df
-
