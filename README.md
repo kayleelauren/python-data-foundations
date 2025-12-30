@@ -77,6 +77,27 @@ pip install -e .
 
 ---
 
+## Command-Line Interface (CLI)
+
+This project provides a command-line interface for running data workflows.
+
+Clean a scores CSV using the package CLI:
+
+```bash
+python -m python_data_foundations clean-scores data/sample_scores.csv data/clean_scores.csv
+```
+
+If the project is installed in editable mode, the CLI can also be run as a command:
+
+```bash
+python-data-foundations clean-scores data/sample_scores.csv data/clean_scores.csv
+```
+
+The CLI is designed to be extensible and will serve as the primary interface
+for future data and AI-related workflows.
+
+---
+
 ## Run the Example Script
 
 ```bash
