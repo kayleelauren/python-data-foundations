@@ -1,7 +1,6 @@
 from pathlib import Path
 
-from scripts.clean_scores import clean_scores
-
+from python_data_foundations.clean_scores import clean_scores
 
 
 def test_clean_scores_creates_output(tmp_path: Path) -> None:
